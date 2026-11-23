@@ -8,7 +8,7 @@
 
 I started research for the project and defined some key parameters. not much to say for this early on, but did decide to do it with a friend, more fun and interesting, maybe build 2, one for each of us.
 
-![Parts and budget spreadsheet](images/01-spreadsheet.png)
+![Parts and budget spreadsheet](01-spreadsheet.png)
 
 **Time spent: 1.22h**
 

@@ -1,3 +1,5 @@
-git rm journal-with-images.zip
+cd /path/to/Open-Sauce-Robotic-arm-for-under-400-AUD
+git rm -f journal-with-images.zip
+git add -A
 git commit -m "Remove journal-with-images.zip"
 git push origin main

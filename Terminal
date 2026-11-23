@@ -3,3 +3,6 @@ git rm -f journal-with-images.zip
 git add -A
 git commit -m "Remove journal-with-images.zip"
 git push origin main
+git fetch origin
+git log origin/main --all --oneline -- journal-with-images.zip
+git ls-tree -r origin/main --name-only | grep journal-with-images.zip

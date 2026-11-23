@@ -18,7 +18,7 @@ I started research for the project and defined some key parameters. not much to 
 
 continued researching components and cost, still looking for a power supply, but have found a supplier of the bluetooth module that will work with the MEGA. i already have that so testing can start soon. (really wish funding was a reimbursement, so i can buy components and build, then get reimbursed for what i spend.)
 
-![Fin Ray finger in the slicer](images/02-fin-ray-slicer.png)
+![Fin Ray finger in the slicer](02-fin-ray-cad.png)
 ![Fin Ray finger CAD](images/02-fin-ray-cad.png)
 
 i also designed the claw mechanism for the arm, i want it to be a soft grip, adaptable claw similar to some i found online, also known as a Fin Ray finger
@@ -49,9 +49,8 @@ found cheaper servos, saving budget and upped the total budget to $300 (not poss
 
 ![Gear ratio and tooth count spreadsheet](images/04-gear-spreadsheet.png)
 
-also calculated what module each stage has to be so the gears print nicely and dont
+also calculated what module each stage has to be so the gears print nicely and dont snap under the load
 
-<!-- TODO: the screenshot cuts off here, finish this sentence from your original entry -->
 
 **Time spent: 2.6h**
 
